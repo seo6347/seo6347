@@ -10,7 +10,7 @@ I am interested in how data and learning processes shape latent representations 
 
 A Python static analyzer that identifies structural security risks in LLM and agent applications using OWASP LLM risk categories.
 
-**My contribution:** Core scanning engine, static analysis, and evaluation.
+**My contribution:** Core scanning engine, static analysis.
 **Award:** Silver Prize, Soongsil University Software Competition, 2026.
 
 ### [FastGainRouter](https://github.com/seo6347/FastGainRouter-SIDL)
