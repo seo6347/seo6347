@@ -10,7 +10,7 @@ I am interested in how data and learning processes shape latent representations 
 
 A Python static analyzer that identifies structural security risks in LLM and agent applications using OWASP LLM risk categories.
 
-**My contribution:** Core scanning engine, static analysis.
+**My contribution:** Project lead; Core scanning engine, static analysis.
 **Award:** Silver Prize, Soongsil University Software Competition, 2026.
 
 ### [FastGainRouter](https://github.com/seo6347/FastGainRouter-SIDL)
@@ -23,7 +23,7 @@ An input-adaptive routing method that selects whether to bypass restoration or a
 
 A data science project examining crises and recovery patterns in webtoons using episode information and reader comments.
 
-**My contribution:** Data collection and preprocessing, and the analyses for Research Questions 3 and 4.
+**My contribution:** Project lead; Data collection and preprocessing, and the analyses for Research Questions 3 and 4.
 
 ### [Disappearing Schools, Declining Communities](https://github.com/seo6347/Disappearing-Schools-Declining-Communities-)
 
@@ -39,7 +39,7 @@ The current analysis is publicly available; further development is planned for t
 
 A team project exploring how publicly available digital footprints can combine to create social engineering risks, with explanations and actionable guidance for users.
 
-**Assigned role:** Information Extraction & Profiling — webpage preprocessing, information and relationship extraction, structured profiles, and preservation of sources and supporting evidence.
+**Assigned role:** Project lead; Information Extraction & Profiling — webpage preprocessing, information and relationship extraction, structured profiles, and preservation of sources and supporting evidence.
 
 **Status:** Planning and development in progress.
 
